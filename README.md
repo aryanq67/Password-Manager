@@ -1,1 +1,1 @@
-# Password-Manager
+A simple password manager that allows users to store and manage credentials. Features include a random password generator, Caesar cipher encryption/decryption, and a menu-based interface to add, retrieve, delete, save, and load credentials.
